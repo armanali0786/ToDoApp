@@ -1,6 +1,6 @@
 # ToDoWeb Application 
 LetsGrowMore Internship  
-ToDoApp Using Html, Css, Javascript 
+ToDoApp Using Html, Css, Javascript.
 
 here u can see my website...:-
 
